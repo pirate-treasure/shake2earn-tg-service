@@ -6,4 +6,4 @@
 
 # License
 
-Outline is [BSL 1.1 licensed](LICENSE).
+Distributed under the BSL 1.1 License. See [BSL 1.1 licensed](LICENSE) for more information.
